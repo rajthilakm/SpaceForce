@@ -1,0 +1,18 @@
+# python runtime
+FROM python:3.5
+
+# working directory
+WORKDIR /SpaceForce
+
+# copy current directory into the container
+ADD . /SpaceForce
+
+# install requirements
+
+RUN pip3 install -r requirements.txt
+ENTRYPOINT ["python"]
+CMD ["space_app.py"]
+
+# make port 5000 available to the world outside
+EXPOSE 5000
+

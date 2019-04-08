@@ -1,0 +1,38 @@
+{
+    "spaceship_id": 2,
+    "units": "kW",
+    "data": [
+        {
+            "datetime": "2018-08-24T00:00:00Z",
+            "value": 22
+        },
+        {
+            "datetime": "2018-08-24T00:05:00Z",
+            "value": 24
+        },
+        {
+            "datetime": "2018-08-24T00:10:00Z",
+            "value": 23
+        },
+        {
+            "datetime": "2018-08-24T00:15:00Z",
+            "value": 18
+        },
+        {
+            "datetime": "2018-08-24T00:20:00Z",
+            "value": 22
+        },
+        {
+            "datetime": "2018-08-24T00:25:00Z",
+            "value": 23
+        },
+        {
+            "datetime": "2018-08-24T00:30:00Z",
+            "value": 8
+        },
+        {
+            "datetime": "2018-08-24T00:30:00Z",
+            "value": "five"
+        }
+    ]
+}

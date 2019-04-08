@@ -1,0 +1,11 @@
+1. Download Docker 
+2. Download Anaconda (or python 3.5)
+3. Download SpaceForce Folder 
+4. Download postman or RESTFUL API Development Environment 
+4. Navigate to sandbox folder 
+5. Start sandbox 
+6. Navigate to tests 
+7. Run tests 
+8. Navigate to SpaceForce folder 
+9. Launch Space App 
+10.Use postman to GET or POST messages

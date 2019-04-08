@@ -1,0 +1,22 @@
+{
+    "spaceship_id": 1,
+    "units": "kWh",
+    "data": [
+        {
+            "datetime": "2018-08-24T00:00:00Z",
+            "value": 3
+        },
+        {
+            "datetime": "2018-08-24T00:15:00Z",
+            "value": 3
+        },
+        {
+            "datetime": "2018-08-24T00:30:00Z",
+            "value": 3
+        },
+        {
+            "datetime": "2018-08-24T00:45:00Z",
+            "value": 3
+        }
+    ]
+}
